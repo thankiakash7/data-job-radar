@@ -6,7 +6,7 @@ Refreshing five job boards a day, with bad filters and worse duplicates, gets ol
 
 It searches [Adzuna](https://www.adzuna.co.uk/) and [Reed](https://www.reed.co.uk/), merges the results, and updates every 10 minutes. Built by Akash Thanki.
 
-**Live** at: [your-deployment-url-here.vercel.app](https://vercel.com/)
+**Live** at: https://data-job-radar-4s1vzk5da-thanki.vercel.app/
 
 Built with [Next.js](https://nextjs.org/) • Tested with [Vitest](https://vitest.dev/) • Hosted on [Vercel](https://vercel.com/) (free tier)
 
