@@ -1,6 +1,10 @@
 # Data Job Radar
 
-A personalized job search site built by Akash Thanki. Searches the [Adzuna](https://www.adzuna.co.uk/) and [Reed](https://www.reed.co.uk/) UK job indexes for entry-level **data analyst / data science** roles, **graduate schemes**, and **internships** across **London**, **Brighton & Hove**, and **remote UK**.
+I was bored of the job hunt, so I built this instead.
+
+Refreshing five job boards a day, with bad filters and worse duplicates, gets old fast. So I wired together two job APIs, added the filters I actually wanted, and pointed it at the kind of roles I'm after: entry-level **data analyst / data science**, **graduate schemes**, and **internships**, in **London**, **Brighton & Hove**, or **remote UK**.
+
+It searches [Adzuna](https://www.adzuna.co.uk/) and [Reed](https://www.reed.co.uk/), merges the results, and updates every 10 minutes. Built by Akash Thanki.
 
 **Live** at: [your-deployment-url-here.vercel.app](https://vercel.com/)
 
@@ -290,4 +294,5 @@ Check `DEPLOYMENT_GUIDE.md` for detailed instructions. If you get stuck, the mos
 2. Node.js not installed → download from [nodejs.org](https://nodejs.org/).
 3. Dependencies not installed → run `npm install` again.
 
+I will be adding more functionality to this as time goes one.
 Good luck with your job search.
